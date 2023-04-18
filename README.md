@@ -3,7 +3,12 @@
 <h3>Assigment</h3>
 Assignment.ipynb is a Jupyter Notebook file containing Python code for the Lead Score Case Study, with detailed comments explaining each section.
 <h3>Lead Score Case Study</h3>
-LEAD SCORE CASE STUDY.pdf is a presentation file containing univariate and bivariate visualizations, analyses of numerical variables, and ROC curves for evaluating machine learning model performance.
+LEAD SCORE CASE STUDY.pdf is a presentation file that presents the Lead Score Case Study.
+<ul>
+  <li>The presentation contains various visualizations and analyses, such as univariate and bivariate analyses, numerical variable analyses, distribution of numerical variables, and ROC curves.</li>
+
+  <li>These visualizations and analyses are used to evaluate the performance of machine learning models and to provide insights and recommendations for future improvements.</li>
+ </ul>
 <h3>Subjective_Questions</h3>
 Subjective_Questions.pdf is a document that contains responses to questions posed by the company.
 <ul>
