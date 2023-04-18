@@ -1,4 +1,4 @@
-# Case-Study---Leads-Scoring
+# Case-Study-Leads-Scoring
 
 <h3>Assigment</h3>
 <ul>
